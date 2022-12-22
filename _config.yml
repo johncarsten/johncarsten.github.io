@@ -8,7 +8,7 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
+show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
@@ -22,8 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:black.johncarsten@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/johncarsten"}
-  - {title: Twitter, icon: rss, url: "https://twitter.com/johncarstenb"}
-  - {title: Instagram, icon: rss, url: "https://www.instagram.com/coach.johnblack"}
+  - {title: Twitter, icon: Twitter, url: "https://twitter.com/johncarstenb"}
+  - {title: Instagram, icon: Instagram, url: "https://www.instagram.com/coach.johnblack"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

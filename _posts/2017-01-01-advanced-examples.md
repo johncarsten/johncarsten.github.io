@@ -40,6 +40,17 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
 
 {% endhighlight %}
 
+## Code Test
+
+Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
+
+{% highlight c %}
+
+print("hello world")
+
+{% endhighlight %}
+
+
 ## Gists
 
 With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:

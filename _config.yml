@@ -22,8 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:black.johncarsten@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/johncarsten"}
-  - {title: Twitter, icon: "fa fa-twitter", url: "https://twitter.com/johncarstenb"}
-  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/coach.johnblack"}
+  - {title: Twitter, icon: "<i class="fa-brands fa-twitter"></i>, url: "https://twitter.com/johncarstenb"}
+  - {title: Instagram, icon: <i class="fa-brands fa-instagram"></i>, url: "https://www.instagram.com/coach.johnblack"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

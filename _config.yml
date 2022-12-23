@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Blog"}
+  - {file: "blog.html", title: "Blog"}
   - {file: "README.md", title: "About"}
-  - {file: "README.md"}
+  - {file: "README.md", title: "1RM Calculator"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:black.johncarsten@gmail.com"}

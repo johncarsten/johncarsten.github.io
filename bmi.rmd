@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "BMI"
+permalink: "/bmi/"
 layout: page
 ---
 

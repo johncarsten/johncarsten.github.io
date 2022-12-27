@@ -17,7 +17,6 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: "Blog"}
-  - {file: "Resume.pdf", title: "Resume"}
   - {file: "bmi.md", title: "1RM Calculator"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

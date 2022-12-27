@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "blog.html", title: "Blog"}
+  - {file: "blog.md", title: "Blog"}
   - {file: "Resume.pdf", title: "Resume"}
   - {file: "bmi.md", title: "1RM Calculator"}
 
